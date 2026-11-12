@@ -1,3 +1,5 @@
+> **AEC portfolio adaptation:** [What I changed, sample data, and verification limits](AEC_SHOWCASE.md). Based on LangChain's MIT retrieval template.
+
 # LangGraph Retrieval Chat Bot Template
 
 [![CI](https://github.com/langchain-ai/retrieval-agent-template/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/langchain-ai/retrieval-agent-template/actions/workflows/unit-tests.yml)

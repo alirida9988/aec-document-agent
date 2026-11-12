@@ -1,0 +1,14 @@
+[
+  {
+    "page_content": "SYNTHETIC DEMO ONLY. Historic library project. Specification 04 01 20, revision B, section 1.4: Submit a masonry cleaning mockup for architect review before any full-area cleaning. RFI-017 status: open; no cleaning agent has been approved.",
+    "metadata": {"source":"demo-library-spec-04-01-20", "revision":"B", "section":"1.4", "project_id":"demo-library"}
+  },
+  {
+    "page_content": "SYNTHETIC DEMO ONLY. Historic library project. Specification 04 01 20, revision A, section 1.4: A 2-square-foot cleaning mockup is required. This revision is retained for conflict-evaluation purposes; the record does not establish whether a replacement mockup size was approved.",
+    "metadata": {"source":"demo-library-spec-04-01-20", "revision":"A", "section":"1.4", "project_id":"demo-library"}
+  },
+  {
+    "page_content": "SYNTHETIC DEMO ONLY. Historic library meeting record M-003, revision 0, action 2: Project manager to request the mockup review date from the architect. No review date or completion deadline was agreed in this meeting.",
+    "metadata": {"source":"demo-library-meeting-M-003", "revision":"0", "section":"action 2", "project_id":"demo-library"}
+  }
+]
